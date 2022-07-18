@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program Files (x86)/career/projet mobile/KidsParadise/app/src/main/res/layout/activity_parametre.xml" value="0.25" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/KidsParadise/app/src/main/res/layout/activity_parametre.xml" value="0.25" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1655" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.133" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_addition.xml" value="0.25" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_developer.xml" value="0.264" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_parametre.xml" value="0.264" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_qa_n1.xml" value="0.25" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_qa_n2.xml" value="0.2359375" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_qa_n3.xml" value="0.25" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_question00.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_question22.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_question33.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_questions.xml" value="0.25" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_questions2.xml" value="0.25" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_questions3.xml" value="0.2359375" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_result.xml" value="0.25" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_result2.xml" value="0.2" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_result3.xml" value="0.12685185185185185" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_result4.xml" value="0.25" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_resut00.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_resut22.xml" value="0.25" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_resut33.xml" value="0.25" />
+        <entry key="..\:/Users/adham/Desktop/projet mobile/MyApplication2/app/src/main/res/layout/activity_soustraction.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

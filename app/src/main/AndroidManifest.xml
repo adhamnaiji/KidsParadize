@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity
+            android:name=".ResutActivity33"
+            android:exported="false" />
+        <activity
+            android:name=".ResutActivity22"
+            android:exported="false" />
+        <activity
+            android:name=".ResutActivity00"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionActivity33"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionActivity22"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionActivity00"
+            android:exported="false" />
+        <activity
+            android:name=".ResultActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".ResultActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionsActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionsActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeveloperActivity"
+            android:exported="false" />
+        <activity android:name=".Soustraction" />
+        <activity android:name=".Addition" />
+        <activity android:name=".parametre" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
